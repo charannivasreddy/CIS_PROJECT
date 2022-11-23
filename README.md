@@ -1,4 +1,4 @@
-# Future-Ready-Talent
+# 
 Organic farming is the one stop solution for the general crisis for the day by day problems so I came up with the solution for farming managment system such that provides the direct contact with the certfied organic farmers such that every one can have the fresh fruits and vegetables,having healthy food is everbody's right
 
 Organic farming is a production system which avoids or largely excludes the use of synthetically compounded fertilizers, pesticides, growth regulators, genetically modified organisms and livestock food additives.
